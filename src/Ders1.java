@@ -5,6 +5,7 @@ public class Ders1 {
     System.out.println("saat 10.52 am");
     System.out.println("saat 11.46 am"); 
     System.out.println("saat 15.07 pm-iskender"); 
+    System.out.println("saat 15.38 pm-ayhan"); 
     		
     		
 		
